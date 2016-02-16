@@ -1,0 +1,24 @@
+
+Author
+-------------------------------------------------
+Name: Tarun Shimoga
+ASU ID: tshimoga
+ASU #: 1208478709
+
+
+Description
+------------------------------------------------
+
+This is a simple bash script that looks for patterns in the files through grep and uses awk to filter out the required details.
+List of files explored:
+1. /etc/hosts
+2. /etc/ssh/ssh_config
+3. ~/.ssh/ssh_config
+4. ~/.ssh/known_hosts
+5. ~/.ssh/authorized_keys
+
+Execution
+-----------------------------------------------
+To execute the program, just run ./discovery
+
+
